@@ -14,7 +14,7 @@ I work in the **Unity** engine for now, with plans to move to **Unreal Engine 5*
 ## What I'm Working On
 
 <!-- Game name is temporary -->
-### Yorimichi: The Chase
+### Can't Stay Put! Run!
 *An isometric 3D runner*
 
 ​Something in the darkness is watching, and it's getting closer.  
@@ -24,7 +24,7 @@ Whatever happens, don't lose your light...
 
 - **Status:** In development
 - **Planned Platforms:** Web/Android/iOS
-- **Follow along:** [Itch.io](https://reiso-productions.itch.io/yorimichi-the-chase)
+- **Follow along:** [Itch.io](https://reiso-productions.itch.io/cant-stay-put-run)
 
 ---
 
