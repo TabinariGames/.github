@@ -13,7 +13,7 @@ I work in the **Unity** engine for now, with plans to move to **Unreal Engine 5*
 
 ## What I'm Working On
 
-### Can't Stay Put! Run!
+### Can't Stay Put! RUN!
 *An isometric 3D runner*
 
 ​Something in the darkness is watching, and it's getting closer.  
