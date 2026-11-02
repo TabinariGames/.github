@@ -2,7 +2,7 @@
 
 ## Hi There!
 
-REISO PRODUCTIONS is a small indie game development studio, currently just me.
+Tabinari Games is a small indie game development studio, currently just me.
 
 I make narrative-driven games set in a shared universe, each adding a unique perspective to a larger world.  
 I aim to create games that pair deep, immersive atmospheric storytelling with gameplay that pulls you in.
@@ -13,7 +13,6 @@ I work in the **Unity** engine for now, with plans to move to **Unreal Engine 5*
 
 ## What I'm Working On
 
-<!-- Game name is temporary -->
 ### Can't Stay Put! Run!
 *An isometric 3D runner*
 
@@ -24,11 +23,11 @@ Whatever happens, don't lose your light...
 
 - **Status:** In development
 - **Planned Platforms:** Web/Android/iOS
-- **Follow along:** [Itch.io](https://reiso-productions.itch.io/cant-stay-put-run)
+- **Follow along:** [Itch.io](https://tabinarigames.itch.io/cant-stay-put-run)
 
 ---
 
 ## Say Hi!
 
 If you'd like to talk games or share ideas, I'd love to hear from you!  
-📧 [reiso.productions@gmail.com](mailto:reiso.productions@gmail.com)
+📧 [tabinarigames@gmail.com](mailto:tabinarigames@gmail.com)
